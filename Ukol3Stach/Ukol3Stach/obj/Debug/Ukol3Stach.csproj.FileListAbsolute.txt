@@ -1,0 +1,11 @@
+C:\Users\Uživatel\Desktop\programko\Ukol3Stach\Ukol3Stach\bin\Debug\Ukol3Stach.exe.config
+C:\Users\Uživatel\Desktop\programko\Ukol3Stach\Ukol3Stach\bin\Debug\Ukol3Stach.exe
+C:\Users\Uživatel\Desktop\programko\Ukol3Stach\Ukol3Stach\bin\Debug\Ukol3Stach.pdb
+C:\Users\Uživatel\Desktop\programko\Ukol3Stach\Ukol3Stach\obj\Debug\Ukol3Stach.csproj.AssemblyReference.cache
+C:\Users\Uživatel\Desktop\programko\Ukol3Stach\Ukol3Stach\obj\Debug\Ukol3Stach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uživatel\Desktop\programko\Ukol3Stach\Ukol3Stach\obj\Debug\Ukol3Stach.Form1.resources
+C:\Users\Uživatel\Desktop\programko\Ukol3Stach\Ukol3Stach\obj\Debug\Ukol3Stach.Properties.Resources.resources
+C:\Users\Uživatel\Desktop\programko\Ukol3Stach\Ukol3Stach\obj\Debug\Ukol3Stach.csproj.GenerateResource.cache
+C:\Users\Uživatel\Desktop\programko\Ukol3Stach\Ukol3Stach\obj\Debug\Ukol3Stach.csproj.CoreCompileInputs.cache
+C:\Users\Uživatel\Desktop\programko\Ukol3Stach\Ukol3Stach\obj\Debug\Ukol3Stach.exe
+C:\Users\Uživatel\Desktop\programko\Ukol3Stach\Ukol3Stach\obj\Debug\Ukol3Stach.pdb
